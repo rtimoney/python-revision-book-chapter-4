@@ -5,6 +5,7 @@
 # elements are referenced by their key rather than an index number
 # essentially Pythons version of an associative array
 
+
 info = {'name':'Bob','ref':'Python','sys':'Win'}
 print('info :' , type(info))
 print('Dictionary :' , info)
