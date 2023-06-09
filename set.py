@@ -1,6 +1,6 @@
 # Setting Lists
 
-#Python sets are restrictive lists of unique values surrounded by braces {curly brackets}
+#Python sets are restrictive lists of unique values surrounded by braces {curly brackets} 
 
 
 # initializing a set for demonstration purposes
