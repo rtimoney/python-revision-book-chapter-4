@@ -1,4 +1,4 @@
-# writing lists
+# writing lists 
 # Python does not have arrays like in other languages but it does have 'lists' which work in much the same way 
 
 # in Python we cannot declare a variable without initializing with a value
