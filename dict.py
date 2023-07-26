@@ -1,4 +1,4 @@
-# Naming Elements 
+# Naming Elements  
 
 # In Python a Dictionary is a data container that can store multiple items of data as a list 
 # .... of Key:value pairs   
