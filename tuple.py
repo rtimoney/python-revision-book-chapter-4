@@ -1,6 +1,6 @@
 # Fixing Lists 
 
-# TUPLES
+# TUPLES 
 # A tuple is a collection which is ordered and unchangeable
 # Tuples are written with rounded brackets as opposed to a list which is written with square brackets
 days = ('Mon' , 'Tue' , 'Wed' , 'Thu' , 'Fri' , 'Sat' , 'Sun')
